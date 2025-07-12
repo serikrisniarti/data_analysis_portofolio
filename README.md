@@ -1,10 +1,5 @@
 # 🛍️ Sales Transaction Analysis Project
 
-## Table of Contents
-- [Dataset](#dataset)
-- [Notebooks](#notebooks)
-- [Presentation](#presentation)
-
 ### 📌 Overview
 This project analyzes one year of sales transactional data to uncover customer behavior, product trends, and key performance indicators. The primary goal is to deliver actionable insights that can support strategic decision-making to improve sales performance and customer retention. This project using **Python** for data cleaning, data analysis, and creating visualizations.
 
